@@ -1,4 +1,4 @@
-# I Ching (Paša projekts)
+# I Ching (Paša projekts, Vēl nestrādā)
 
 ## Failu struktūra
 - index.html – sākumlapa
